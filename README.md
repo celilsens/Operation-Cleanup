@@ -1,6 +1,7 @@
 # 🎮 Unity First Day Project
 
 This is a simple 3D game demo developed on my very first day of learning Unity. The project helped me experiment with basic game mechanics.
+You can play this game at [Unity Play](https://play.unity.com/en/games/3b919a66-e38c-42c4-b7dd-69d7268f83c8/webgl-builds). 
 
 ## 🚀 Features
 
@@ -19,15 +20,12 @@ This is a simple 3D game demo developed on my very first day of learning Unity. 
 
 The project includes a WebGL build, but it is excluded from Git tracking. You can host it on your own server (e.g., GitHub Pages, itch.io) to make it playable online.
 
-## 📂 How to Run
+## 📝 Notes
+Keep in mind that this is a first day project. 
+There are a few bugs/issues in the game that I noticed, but I started this project with a challenge,
+To make it a true "Day One Project", it would take no more than 24 hours to develop this project. 
+That's why I couldn't fix all the bugs/issues you see in the game in 24 hours. I tried my best.
 
-1. Open the project via Unity Hub
-2. Launch the `Assets/Scenes/Main.unity` scene
-3. Play and explore!
-
-## 🤝 Contributing
-
-This is an open-source learning project. Suggestions, pull requests, and feedback are always welcome.
 
 ## 📄 License
 
